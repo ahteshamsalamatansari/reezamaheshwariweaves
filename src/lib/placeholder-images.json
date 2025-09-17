@@ -1,3 +1,83 @@
+
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero1",
+      "description": "Model wearing a luxurious maroon saree in a modern setting.",
+      "imageUrl": "https://picsum.photos/seed/hero1/1920/1080",
+      "imageHint": "saree model"
+    },
+    {
+      "id": "hero2",
+      "description": "Close-up of an artisan's hands weaving on a traditional handloom.",
+      "imageUrl": "https://picsum.photos/seed/hero2/1920/1080",
+      "imageHint": "artisan weaving"
+    },
+    {
+      "id": "hero3",
+      "description": "Elegant drape of a golden silk saree.",
+      "imageUrl": "https://picsum.photos/seed/hero3/1920/1080",
+      "imageHint": "saree drape"
+    },
+    {
+      "id": "silk-sarees",
+      "description": "A lustrous silk saree with intricate patterns.",
+      "imageUrl": "https://picsum.photos/seed/silk/600/800",
+      "imageHint": "silk saree"
+    },
+    {
+      "id": "cotton-sarees",
+      "description": "A comfortable and elegant cotton saree.",
+      "imageUrl": "https://picsum.photos/seed/cotton/600/800",
+      "imageHint": "cotton saree"
+    },
+    {
+      "id": "festive-collection",
+      "description": "A vibrant saree perfect for festive occasions.",
+      "imageUrl": "https://picsum.photos/seed/festive/600/800",
+      "imageHint": "festive saree"
+    },
+    {
+      "id": "bridal-elegance",
+      "description": "An exquisite and opulent bridal saree.",
+      "imageUrl": "https://picsum.photos/seed/bridal/600/800",
+      "imageHint": "bridal saree"
+    },
+    {
+      "id": "insta1",
+      "description": "Lifestyle shot of a woman in a saree.",
+      "imageUrl": "https://picsum.photos/seed/insta1/500/500",
+      "imageHint": "saree lifestyle"
+    },
+    {
+      "id": "insta2",
+      "description": "Flatlay of a saree with accessories.",
+      "imageUrl": "https://picsum.photos/seed/insta2/500/500",
+      "imageHint": "saree flatlay"
+    },
+    {
+      "id": "insta3",
+      "description": "Behind the scenes at the weaver's workshop.",
+      "imageUrl": "https://picsum.photos/seed/insta3/500/500",
+      "imageHint": "weaver workshop"
+    },
+    {
+      "id": "insta4",
+      "description": "Customer wearing our saree.",
+      "imageUrl": "https://picsum.photos/seed/insta4/500/500",
+      "imageHint": "happy customer"
+    },
+    {
+      "id": "insta5",
+      "description": "Styling tips for our cotton sarees.",
+      "imageUrl": "https://picsum.photos/seed/insta5/500/500",
+      "imageHint": "saree styling"
+    },
+    {
+      "id": "insta6",
+      "description": "A close up of the intricate zari border of a Maheshwari saree.",
+      "imageUrl": "https://picsum.photos/seed/insta6/500/500",
+      "imageHint": "zari border"
+    }
+  ]
 }
